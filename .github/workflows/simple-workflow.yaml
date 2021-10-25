@@ -20,5 +20,7 @@ jobs:
           java-version: 1.8
       - name: Print contents in current directory
         run: ls -la
+      - name: Change wrapper permissions
+        run: chmod +x ./gradlew
       - name: Run Unit tests
         run: ./gradlew testDebugUnitTest
