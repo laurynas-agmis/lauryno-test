@@ -9,7 +9,7 @@ jobs:
     # 4
     name: Build and run tests
     # 5
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     # 6
     steps:
       - name: Checkout current repository in ubuntu's file system
