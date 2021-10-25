@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605402326862",
+    "project_id": "laurynotest",
+    "storage_bucket": "laurynotest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605402326862:android:89991a3b8ffe5e35e8201f",
+        "android_client_info": {
+          "package_name": "lt.agmis.laurynotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605402326862-cfe9dsin9bf3l0139ajs8mkajj7lqcvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3-rbP2Cz0TMo2j6esDXCoLU9FqRh-Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605402326862-cfe9dsin9bf3l0139ajs8mkajj7lqcvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
